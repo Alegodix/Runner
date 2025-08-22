@@ -4,7 +4,7 @@ Créé avec Unity (> v6000.0.51f1) en utilisant le langage C#
 
 ## Comment Jouer
 
-**pour débuter la cours : clic droit de la souris**
+**pour débuter la course : clic droit de la souris**
 
 **sauter : barre d'espace**
 
