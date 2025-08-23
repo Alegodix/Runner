@@ -2,7 +2,13 @@
 
 Créé avec Unity (> v6000.0.51f1) en utilisant le langage C#
 
-## Comment Jouer
+### Comment Jouer
+
+## Ouvrir le jeu
+
+télécharger le fichier .exe, l'ouvrir, profiter
+
+## Commandes 
 
 **pour débuter la course : clic droit de la souris**
 
