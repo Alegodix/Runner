@@ -2,7 +2,7 @@
 
 Créé avec Unity (> v6000.0.51f1) en utilisant le langage C#
 
-### Comment Jouer
+# Comment Jouer
 
 ## Ouvrir le jeu
 
