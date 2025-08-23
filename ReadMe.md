@@ -10,11 +10,9 @@ télécharger le fichier .exe, l'ouvrir, profiter
 
 ## Commandes 
 
-**pour débuter la course : clic droit de la souris**
-
-**sauter : barre d'espace**
-
-**dérapage : shift**
+- **débuter la course : clic droit de la souris**
+- **sauter : barre d'espace**
+- **dérapage : shift**
 
 ## Capture d'écran
 
